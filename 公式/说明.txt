@@ -1,0 +1,1 @@
+OpenCV中拟合椭圆的参数存在RotatedRect中，其中angle成员表示width轴与x轴的夹角

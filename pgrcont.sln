@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pgrcont", "pgrcont\pgrcont.vcproj", "{FCB68DB8-E8AD-4B83-9C3A-9C8CC21D5589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB68DB8-E8AD-4B83-9C3A-9C8CC21D5589}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FCB68DB8-E8AD-4B83-9C3A-9C8CC21D5589}.Debug|Win32.Build.0 = Debug|Win32
+		{FCB68DB8-E8AD-4B83-9C3A-9C8CC21D5589}.Release|Win32.ActiveCfg = Release|Win32
+		{FCB68DB8-E8AD-4B83-9C3A-9C8CC21D5589}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

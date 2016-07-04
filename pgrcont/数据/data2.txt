@@ -1,0 +1,17 @@
+xr=-3.81,yr=-1.71,zr=72.46
+normal vec  0.28, 3.67,-9.30
+xr=-3.80,yr=-1.71,zr=72.48
+normal vec  0.19, 3.46,-9.38
+xr=-3.80,yr=-1.71,zr=72.47
+normal vec  0.14, 3.35,-9.42
+xr=-3.81,yr=-1.71,zr=72.45
+normal vec  0.22, 3.49,-9.37
+xr=-3.80,yr=-1.71,zr=72.46
+normal vec  0.17, 3.35,-9.42
+xr=-3.80,yr=-1.71,zr=72.47
+normal vec  0.24, 3.48,-9.37
+xr=-3.80,yr=-1.71,zr=72.47
+normal vec  0.25, 3.55,-9.34
+robot x,y,z:500,0,100   rx,ry,rz:180,0,0
+left center:      516.22 282.45
+right center£ºc,r,348.12,282.35  
